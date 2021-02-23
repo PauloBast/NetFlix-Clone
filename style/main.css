@@ -8,7 +8,7 @@
   box-sizing: border-box;
 }
 body{
-  background: var(--preto);
+  background: var(--vermelho);
   font-family: 'Arial', Times, serif;
   color:white;
 }
