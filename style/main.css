@@ -33,8 +33,8 @@ header nav a:hover{
   color:#fff;
 }
 .filme-principal{
-  background-image: url('../img/imgP.jpg');
-  /*background: url("/img/imgP.jpg");*/
+  /*background-image: url('../img/imgP.jpg');*/
+  background: url("/img/imgP.jpg");
     /*linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),*/
   font-size:16px;
   height:400px;
