@@ -15,7 +15,7 @@ body{
 header .container{
   display:flex;
   flex-direction:row;
-  align-items: center;
+  align-items:center;
   justify-content:space-between;
 }
 header .logo{
@@ -39,7 +39,7 @@ header nav a:hover{
   background-size:cover;
   display:flex;
   flex-direction:colunm;
-  align-items:flex-start;
+  align-items: flex-start;
   justify-content:center; 
 }
 .filme-principal .descricao{
