@@ -51,7 +51,7 @@ header nav a:hover{
   font-family:'Trebuchet MS', Arial, sans-serif;
   margin-top:15%;
 }
-botao{
+.botao{
   background-color:rgba(0,0,0,.50);
   border:none;
   color:white;
