@@ -36,13 +36,13 @@ header nav a:hover{
 
   background-image: url('/img/imgP.jpg');
     /*linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),*/
-  /*font-size:16px;
+  font-size:16px;
   height:400px;
   background-size:cover;
   display:flex;
   flex-direction:column;
   align-items: flex-start;
-  justify-content:center;*/
+  justify-content:center;
 }
 /*.filme-principal .descricao{
   margin-top:10px;
