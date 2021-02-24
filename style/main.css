@@ -43,10 +43,10 @@ header nav a:hover{
   align-items: flex-start;
   justify-content:center;
 }
-/*.filme-principal .descricao{
+.filme-principal .descricao{
   margin-top:10px;
   margin-bottom:40px;
-}*/
+}
 .filme-principal .titulo{
   font-size:40px;
   font-family:'Trebuchet MS', Arial, sans-serif;
