@@ -1,2 +1,2 @@
 # NetFlix-Clone
-Estudo "Recriando a interface do Netflix" durante o Bootcamps "Avanade Angular Developer" na <b style="font-size:18px"> Digital innovation One</b> pelo site https://web.digitalinnovation.one/
+Estudo "Recriando a interface do Netflix" durante o Bootcamps "Avanade Angular Developer" na <h4> Digital innovation One</h4> pelo site https://web.digitalinnovation.one/
