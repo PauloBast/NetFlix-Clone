@@ -15,8 +15,8 @@ body{
 header .container{
   display:flex;
   flex-direction:row;
-  align-itens:center;
-  justfy-content:space-between;
+  align-items:center;
+  justify-content:space-between;
 }
 header .logo{
   color: var(--vermelho);
@@ -39,8 +39,8 @@ header nav a:hover{
   background-size:cover;
   display:flex;
   flex-direction:colunm;
-  justify-content:center;
-  align-itens:flex-start;
+  align-items:flex-start;
+  justify-content:center; 
 }
 .filme-principal .descricao{
   margin-top:10px;
