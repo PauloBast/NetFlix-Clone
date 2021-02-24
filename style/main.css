@@ -17,7 +17,6 @@ header .container{
   flex-direction:row;
   align-items:center;
   justify-content:space-between;
-    background: url('/img/img1.jpg');
 }
 header .logo{
   color: var(--vermelho);
