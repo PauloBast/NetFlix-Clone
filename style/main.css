@@ -34,7 +34,7 @@ header nav a:hover{
 }
 .filme-principal{
   /*background-image: url('../img/imgP.jpg');*/
-  background-image: url("../img/imgP.jpg");
+  background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("../img/imgP.jpg");
     /*linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),*/
   font-size:16px;
   height:400px;
